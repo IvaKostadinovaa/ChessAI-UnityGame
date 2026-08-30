@@ -45,15 +45,13 @@ During human turns, selecting a piece highlights its legal moves. The game handl
 The game features a complete chess interface with legal-move highlighting, captured-piece tracking, player timers, game controls, and dedicated end-game screens.
 
 <p align="center">
-  <img src="docs/images/positioning.png" alt="Legal Move Highlighting" width="48%">
-  <img src="docs/images/figure-capturing.png" alt="Piece Capture Gameplay" width="48%">
+  <img src="docs/images/figure-capturing.png" alt="ChessAI Gameplay" width="80%">
 </p>
 
 <p align="center">
-  <img src="docs/images/white_wins.png" alt="White Wins by Checkmate" width="48%">
-  <img src="docs/images/black_wins.png" alt="Black Wins by Checkmate" width="48%">
+  <img src="docs/images/positioning.png" alt="Legal Move Highlighting" width="48%">
+  <img src="docs/images/white_wins.png" alt="Checkmate Screen" width="48%">
 </p>
-
 ---
 
 ## Tech Stack
