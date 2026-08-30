@@ -88,7 +88,7 @@ The game features a complete chess interface with legal-move highlighting, captu
 6. **Unity Integration** - `AIController` executes the search on a background thread. Before the selected move is applied, it is validated once more through `LegalMoveFilter` as an additional safety check.
 
 <p align="center">
-  <img src="docs/images/ai_pipeline.png" alt="ChessAI Search Pipeline" width="850">
+  <img src="docs/images/ai_pipeline.png" alt="ChessAI Search Pipeline" width="650">
 </p>
 
 ---
@@ -148,7 +148,7 @@ The core system is covered by **six layers of NUnit Edit Mode tests**, which can
 | **AI Search** | Mate finding, legal-move guarantees, and iterative-deepening timeout handling |
 
 <p align="center">
-  <img src="docs/images/test_runner.png" alt="Unity Test Runner - 101 Passing Tests" width="800">
+  <img src="docs/images/test_runner.png" alt="Unity Test Runner - 101 Passing Tests" width="600">
 </p>
 
 <p align="center">
